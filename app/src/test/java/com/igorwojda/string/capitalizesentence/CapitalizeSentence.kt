@@ -1,11 +1,8 @@
 package com.igorwojda.string.capitalizesentence
 
+import com.igorwojda.codingpuzzle.newInTown.capitalizeSentence.capitalizeSentence
 import org.amshove.kluent.shouldEqual
 import org.junit.Test
-
-private fun capitalizeSentence(str: String): String {
-    TODO("not implemented")
-}
 
 class CapitalizeSentenceTest {
     @Test

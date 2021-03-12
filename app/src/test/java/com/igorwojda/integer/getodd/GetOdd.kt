@@ -1,11 +1,8 @@
 package com.igorwojda.integer.getodd
 
+import com.igorwojda.codingpuzzle.newInTown.getOddNumbers.filterOdd
 import org.amshove.kluent.shouldEqual
 import org.junit.Test
-
-private fun filterOdd(list: List<Int>): List<Int> {
-    TODO("not implemented")
-}
 
 class GetOddNumbersTest {
     @Test
