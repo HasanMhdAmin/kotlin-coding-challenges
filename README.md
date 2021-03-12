@@ -39,7 +39,7 @@ your time before you take a look at the presented solution. **Good luck!**
 - [x] [Capitalize sentence](app/src/test/java/com/igorwojda/string/capitalizesentence/CapitalizeSentence.md)
 - [x] [Get odd numbers](app/src/test/java/com/igorwojda/integer/getodd/GetOdd.md)
 - [x] [Range contains range?](app/src/test/java/com/igorwojda/range/containsrange/ContainsRange.md)
-- [Add up to](app/src/test/java/com/igorwojda/integer/addupto/AddUpTo.md)
+- [x] [Add up to](app/src/test/java/com/igorwojda/integer/addupto/AddUpTo.md)
 - [Linear search](app/src/test/java/com/igorwojda/list/search/linearsearch/LinearSearch.md)
 - [Count down](app/src/test/java/com/igorwojda/integer/countdown/CountDown.md)
 - [Count up and down](app/src/test/java/com/igorwojda/integer/countupanddown/CountUpAndDown.md)

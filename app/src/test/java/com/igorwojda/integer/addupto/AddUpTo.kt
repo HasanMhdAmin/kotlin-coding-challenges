@@ -1,11 +1,8 @@
 package com.igorwojda.integer.addupto
 
+import com.igorwojda.codingpuzzle.newInTown.addUpTo.addUpTo
 import org.amshove.kluent.shouldEqual
 import org.junit.Test
-
-private fun addUpTo(n: Int): Int {
-    TODO("not implemented")
-}
 
 class AddUpToTest {
     @Test
