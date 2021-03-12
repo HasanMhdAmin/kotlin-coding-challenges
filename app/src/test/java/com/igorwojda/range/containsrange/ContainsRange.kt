@@ -1,11 +1,9 @@
 package com.igorwojda.range.containsrange
 
+import com.igorwojda.codingpuzzle.newInTown.rangeContainsRange.containsRange
 import org.amshove.kluent.shouldEqual
 import org.junit.Test
 
-private fun containsRange(range1: IntRange, range2: IntRange): Boolean {
-    TODO("not implemented")
-}
 
 class ContainsRangeTest {
     @Test
