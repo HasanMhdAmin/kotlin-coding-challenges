@@ -41,7 +41,7 @@ your time before you take a look at the presented solution. **Good luck!**
 - [x] [Range contains range?](app/src/test/java/com/igorwojda/range/containsrange/ContainsRange.md)
 - [x] [Add up to](app/src/test/java/com/igorwojda/integer/addupto/AddUpTo.md)
 - [x] [Linear search](app/src/test/java/com/igorwojda/list/search/linearsearch/LinearSearch.md)
-- [Count down](app/src/test/java/com/igorwojda/integer/countdown/CountDown.md)
+- [x] [Count down](app/src/test/java/com/igorwojda/integer/countdown/CountDown.md)
 - [Count up and down](app/src/test/java/com/igorwojda/integer/countupanddown/CountUpAndDown.md)
 - [Format train route](app/src/test/java/com/igorwojda/list/formattrainroute/FormatTrainRoute.md)
 - [Generate all pairs](app/src/test/java/com/igorwojda/integer/generateallpairs/GenerateAllPairs.md)

@@ -1,4 +1,4 @@
-package com.igorwojda.codingpuzzle.newInTown;
+package com.igorwojda.codingpuzzle;
 
 import java.util.ArrayList;
 
