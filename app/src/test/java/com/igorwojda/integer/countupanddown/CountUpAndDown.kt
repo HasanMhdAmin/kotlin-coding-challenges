@@ -1,11 +1,8 @@
 package com.igorwojda.integer.countupanddown
 
+import com.igorwojda.codingpuzzle.newInTown.countUpAndDown.countUpAndDown
 import org.amshove.kluent.shouldEqual
 import org.junit.Test
-
-private fun countUpAndDown(n: Int): List<Int> {
-    TODO("not implemented")
-}
 
 class CountUpAndDownTest {
     @Test
