@@ -1,11 +1,8 @@
 package com.igorwojda.list.formattrainroute
 
+import com.igorwojda.codingpuzzle.newInTown.formatTrainRoute.formatTrainRoute
 import org.amshove.kluent.shouldEqual
 import org.junit.Test
-
-private fun formatTrainRoute(stations: List<String>): String {
-    TODO("not implemented")
-}
 
 class TrainRouteTest {
     @Test
